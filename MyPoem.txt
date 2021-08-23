@@ -7,6 +7,7 @@ Orange
 Green
 Unicorn
 Blue
+Indygo
 Purple
 
 These are the colors of a rainbow.
