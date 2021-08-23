@@ -6,6 +6,7 @@ Yellow
 Orange
 Green
 Unicorn
+Cyan
 Blue
 Purple
 
